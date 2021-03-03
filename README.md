@@ -6,4 +6,4 @@ This repository consists of data science projects that I have been using to keep
 ---
 ### Titanic WebApp (built with Gradio)
 
-Screenshot 2021-03-03 at 23.12.24![image](https://user-images.githubusercontent.com/39007576/109879596-14b01000-7c76-11eb-8c43-4c7ba8458213.png)
+![image](https://user-images.githubusercontent.com/39007576/109879596-14b01000-7c76-11eb-8c43-4c7ba8458213.png)
